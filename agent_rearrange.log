@@ -1,0 +1,5 @@
+2024-08-30 16:46:38.259 | INFO     | swarms.structs.rearrange:__init__:65 - AgentRearrange initialized with agents: ['AccountingDirector', 'BalanceSheetAnalyzer', 'CashFlowAnalyzer', 'ReportGenerator']
+2024-08-30 16:46:38.266 | INFO     | swarms.structs.rearrange:run:238 - Running agents sequentially: ['AccountingDirector']
+2024-08-30 16:46:50.795 | INFO     | swarms.structs.rearrange:run:238 - Running agents sequentially: ['BalanceSheetAnalyzer']
+2024-08-30 16:46:51.949 | INFO     | swarms.structs.rearrange:run:238 - Running agents sequentially: ['CashFlowAnalyzer']
+2024-08-30 16:46:52.901 | INFO     | swarms.structs.rearrange:run:238 - Running agents sequentially: ['ReportGenerator']

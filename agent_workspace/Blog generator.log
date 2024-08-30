@@ -1,0 +1,81 @@
+[32m2024-08-30T15:16:33.379418+0000[0m [1mInitializing Autonomous Agent summarizer...[0m
+[32m2024-08-30T15:16:33.380103+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T15:16:33.381109+0000[0m [1mAutonomous Agent summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T15:16:33.382023+0000[0m [1mTools provided make sure the functions have documentation ++ type hints, otherwise tool execution won't be reliable.[0m
+[32m2024-08-30T15:16:33.382776+0000[0m [1mTools provided: Accessing 0 tools[0m
+[32m2024-08-30T15:16:33.383285+0000[0m [1mConverting tools into OpenAI function calling schema[0m
+[32m2024-08-30T15:16:33.390463+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'summarizer'][0m
+[32m2024-08-30T15:16:33.392082+0000[0m [1mRunning task with dynamic flow: Blog generator -> summarizer[0m
+[32m2024-08-30T15:16:33.393236+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T15:16:42.139824+0000[0m [1mRunning agents sequentially: ['summarizer'][0m
+[32m2024-08-30T15:19:56.776810+0000[0m [1mInitializing Autonomous Agent summarizer...[0m
+[32m2024-08-30T15:19:56.777894+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T15:19:56.778559+0000[0m [1mAutonomous Agent summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T15:19:56.779171+0000[0m [1mTools provided make sure the functions have documentation ++ type hints, otherwise tool execution won't be reliable.[0m
+[32m2024-08-30T15:19:56.779694+0000[0m [1mTools provided: Accessing 0 tools[0m
+[32m2024-08-30T15:19:56.780130+0000[0m [1mConverting tools into OpenAI function calling schema[0m
+[32m2024-08-30T15:19:56.785584+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'summarizer'][0m
+[32m2024-08-30T15:19:56.787834+0000[0m [1mRunning task with dynamic flow: Blog generator -> summarizer[0m
+[32m2024-08-30T15:19:56.791234+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T15:20:04.863619+0000[0m [1mInitializing Autonomous Agent summarizer...[0m
+[32m2024-08-30T15:20:04.864749+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T15:20:04.865419+0000[0m [1mAutonomous Agent summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T15:20:04.866182+0000[0m [1mTools provided make sure the functions have documentation ++ type hints, otherwise tool execution won't be reliable.[0m
+[32m2024-08-30T15:20:04.866803+0000[0m [1mTools provided: Accessing 0 tools[0m
+[32m2024-08-30T15:20:04.867962+0000[0m [1mConverting tools into OpenAI function calling schema[0m
+[32m2024-08-30T15:20:04.873116+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'summarizer'][0m
+[32m2024-08-30T15:20:04.874420+0000[0m [1mRunning task with dynamic flow: Blog generator -> summarizer[0m
+[32m2024-08-30T15:20:04.876427+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T15:20:13.405449+0000[0m [1mRunning agents sequentially: ['summarizer'][0m
+[32m2024-08-30T15:39:21.139381+0000[0m [1mInitializing Autonomous Agent summarizer...[0m
+[32m2024-08-30T15:39:21.141394+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T15:39:21.142072+0000[0m [1mAutonomous Agent summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T15:39:21.147324+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'summarizer'][0m
+[32m2024-08-30T15:39:21.150709+0000[0m [1mRunning task with dynamic flow: Blog generator -> summarizer[0m
+[32m2024-08-30T15:39:21.152243+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T15:39:29.934439+0000[0m [1mRunning agents sequentially: ['summarizer'][0m
+[32m2024-08-30T15:47:02.990329+0000[0m [1mInitializing Autonomous Agent summarizer...[0m
+[32m2024-08-30T15:47:02.991939+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T15:47:02.992751+0000[0m [1mAutonomous Agent summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T15:47:03.000003+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'summarizer'][0m
+[32m2024-08-30T15:47:03.004394+0000[0m [1mRunning task with dynamic flow: Blog generator -> summarizer[0m
+[32m2024-08-30T15:47:03.006665+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T15:47:13.126321+0000[0m [1mRunning agents sequentially: ['summarizer'][0m
+[32m2024-08-30T16:23:29.528199+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator'][0m
+[32m2024-08-30T16:23:29.529438+0000[0m [31m[1mAn error occurred: Flow must include '->' to denote the direction of the task.[0m
+[32m2024-08-30T16:26:05.719083+0000[0m [1mInitializing Autonomous Agent Summarizer...[0m
+[32m2024-08-30T16:26:05.720241+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T16:26:05.720865+0000[0m [1mAutonomous Agent Summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T16:26:05.728844+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'Summarizer'][0m
+[32m2024-08-30T16:26:05.730370+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T16:26:14.483200+0000[0m [1mRunning agents sequentially: ['Summarizer'][0m
+[32m2024-08-30T16:33:59.163180+0000[0m [1mInitializing Autonomous Agent Summarizer...[0m
+[32m2024-08-30T16:33:59.165495+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T16:33:59.166216+0000[0m [1mAutonomous Agent Summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T16:33:59.172480+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'Summarizer'][0m
+[32m2024-08-30T16:33:59.175708+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T16:34:08.213484+0000[0m [1mRunning agents sequentially: ['Summarizer'][0m
+[32m2024-08-30T16:34:33.424681+0000[0m [1mInitializing Autonomous Agent Summarizer...[0m
+[32m2024-08-30T16:34:33.427602+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T16:34:33.428789+0000[0m [1mAutonomous Agent Summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T16:34:33.434950+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'Summarizer'][0m
+[32m2024-08-30T16:34:33.465134+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T16:34:43.276776+0000[0m [1mRunning agents sequentially: ['Summarizer'][0m
+[32m2024-08-30T16:35:11.261440+0000[0m [1mInitializing Autonomous Agent Summarizer...[0m
+[32m2024-08-30T16:35:11.263198+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T16:35:11.263809+0000[0m [1mAutonomous Agent Summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T16:35:11.270432+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'Summarizer'][0m
+[32m2024-08-30T16:35:11.271938+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T16:35:20.422299+0000[0m [1mRunning agents sequentially: ['Summarizer'][0m
+[32m2024-08-30T17:06:34.454291+0000[0m [1mInitializing Autonomous Agent Summarizer...[0m
+[32m2024-08-30T17:06:34.456690+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T17:06:34.458050+0000[0m [1mAutonomous Agent Summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T17:06:34.464374+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'Summarizer'][0m
+[32m2024-08-30T17:06:34.466723+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T17:06:46.702559+0000[0m [1mRunning agents sequentially: ['Summarizer'][0m
+[32m2024-08-30T17:26:42.659994+0000[0m [1mInitializing Autonomous Agent Summarizer...[0m
+[32m2024-08-30T17:26:42.664243+0000[0m [1mAgent Initialized Successfully.[0m
+[32m2024-08-30T17:26:42.666686+0000[0m [1mAutonomous Agent Summarizer Activated, all systems operational. Executing task...[0m
+[32m2024-08-30T17:26:42.675783+0000[0m [1mAgentRearrange initialized with agents: ['Blog generator', 'Summarizer'][0m
+[32m2024-08-30T17:26:42.678122+0000[0m [1mRunning agents sequentially: ['Blog generator'][0m
+[32m2024-08-30T17:26:51.423138+0000[0m [1mRunning agents sequentially: ['Summarizer'][0m
