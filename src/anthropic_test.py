@@ -10,7 +10,7 @@ model = Anthropic(anthropic_api_key=os.getenv("ANTHROPIC_API_KEY"), streaming=Tr
 
 async def main():
 
-  async for evt in  model.astream_events("What is the capital of France? Answer in 100 to 200 words.", version="v1"):
+  async for evt in model.astream_events("What is the capital of France? Answer in 100 to 200 words.", version="v1"):
     print(evt)
 
 asyncio.run(main())
